@@ -1,0 +1,192 @@
+
+body {
+  font-family: 'Karla', sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+  url(../images/esport-scene.jpg);  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #ffffff;
+  padding-bottom: 0px;
+}
+
+@media (min-width: 768px) {
+    body {
+      padding-bottom: 0px; 
+    }
+}
+
+
+.navbar-brand {
+  margin-right: 0;
+}
+
+.navbar-brand img {
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .navbar-brand img {
+    padding-bottom: 0px; 
+  }
+}
+
+.navbar-dark {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+.navbar-dark .navbar-text {
+  color: #ffffff;
+  opacity: 1;
+  padding: 0 20px;
+  border-right: 1px solid #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.navbar-dark .navbar-text:hover {
+  color: #e94a2e;
+}
+
+.navbar-dark .navbar-text:last-child {
+  border-right: 0;
+}
+@media (max-width: 767px) {
+  .navbar-dark {
+    padding-bottom: 0;
+  }
+  .navbar-brand img {
+    text-align: center;
+  }
+}
+
+.page-title {
+  font-size: 80px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .page-title {
+    font-size: 35px;
+    margin-bottom: 14px;
+    font-weight: 1000;
+  }
+}
+
+.page-description {
+  max-width: 465px;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 59px;
+}
+@media (max-width: 767px) {
+  .page-description {
+    font-size: 14px;
+  }
+}
+
+.footer-social-links{
+  margin-top: 30px;
+  text-align: center;
+
+}
+
+.footer-social-links .social-link {
+  display: inline-block;
+  text-align: center;
+  line-height: 60px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #000000;
+  margin-right: 50px;
+  transition: all 0.3s ease-in-out;
+}
+.footer-social-links .social-link:last-child {
+  margin-right: 0;
+}
+.footer-social-links .social-link:hover {
+  text-decoration: none;
+  background-color: #e94a2e;
+  color: #ffffff;
+}
+
+
+@media (max-width: 768px) {
+  .footer-social-links .social-link{
+    line-height: 40px;
+    margin-right: 30px;
+    width: 40px;
+    height: 40px;  }
+}
+
+.footer-social-links .social-link .mdi{
+  font-size: 30px;
+}
+
+@media (max-width: 768px) {
+  .footer-social-links .social-link .mdi{
+    font-size: 20px;
+  }
+}
+
+
+.content {
+  display: table-cell;
+  vertical-align: middle;
+  padding-top: 13%;
+}
+
+
+@media (max-width: 1028px) {
+  .content{
+    padding-top: 35%;
+  }
+}
+
+p {
+  font-size: 14px;
+  margin: 50px 0 0 0; 
+  text-align: center;
+}
+
+/*# sourceMappingURL=bd-coming-soon.css.map */
+
+/*--------------------------------------------------------------
+# Clients
+--------------------------------------------------------------*/
+.clients {
+  padding: 0px 0;
+  margin-bottom: 0;
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+}
+
+.clients img {
+  max-width: 45%;
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
+  padding: 15px 0;
+  -webkit-filter: grayscale(100);
+  filter: grayscale(100);
+}
+
+.clients .logo1 {
+  max-width: 70%;
+}
+
+.clients img:hover {
+  -webkit-filter: none;
+  filter: none;
+  transform: scale(1.15);
+}
+
+@media (max-width: 768px) {
+  .clients img {
+    max-width: 40%;
+  }
+}

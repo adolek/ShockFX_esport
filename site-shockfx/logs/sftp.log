@@ -1,0 +1,80 @@
+Feb 25 16:40:09 10.71.57.0 u103834837 Connection from 10.71.57.0 port 24724 on 82.165.88.10 port 22
+Feb 25 16:40:09 10.71.57.0 u103834837 Accepted password for u103834837 from 10.71.57.0 port 24724 ssh2
+Feb 25 16:40:09 10.71.57.0 u103834837 Starting session: subsystem 'sftp' for u103834837 from 10.71.57.0 port 24724 id 0
+Feb 25 16:40:10 10.71.57.0 u103834837 session opened for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:55 10.71.57.0 u103834837 Connection from 10.71.57.0 port 42488 on 82.165.88.10 port 22
+Feb 25 16:40:55 10.71.57.0 u103834837 Accepted password for u103834837 from 10.71.57.0 port 42488 ssh2
+Feb 25 16:40:55 10.71.57.0 u103834837 Connection from 10.71.57.0 port 42496 on 82.165.88.10 port 22
+Feb 25 16:40:55 10.71.57.0 u103834837 Accepted password for u103834837 from 10.71.57.0 port 42496 ssh2
+Feb 25 16:40:55 10.71.57.0 u103834837 Starting session: subsystem 'sftp' for u103834837 from 10.71.57.0 port 42488 id 0
+Feb 25 16:40:55 10.71.57.0 u103834837 session opened for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:55 10.71.57.0 u103834837 Starting session: subsystem 'sftp' for u103834837 from 10.71.57.0 port 42496 id 0
+Feb 25 16:40:55 10.71.57.0 u103834837 session opened for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/.gitignore" flags READ mode 0666
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/.htaccess" flags READ mode 0666
+Feb 25 16:40:56 10.71.57.0 u103834837 close "/.gitignore" bytes read 22 written 0
+Feb 25 16:40:56 10.71.57.0 u103834837 [10.71.57.0|get|0|22|0|0|0|2f2e67697469676e6f7265|]
+Feb 25 16:40:56 10.71.57.0 u103834837 close "/.htaccess" bytes read 2584 written 0
+Feb 25 16:40:56 10.71.57.0 u103834837 [10.71.57.0|get|0|2584|0|0|0|2f2e6874616363657373|]
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/gulpfile.js" flags READ mode 0666
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/index.html" flags READ mode 0666
+Feb 25 16:40:56 10.71.57.0 u103834837 close "/gulpfile.js" bytes read 932 written 0
+Feb 25 16:40:56 10.71.57.0 u103834837 [10.71.57.0|get|0|932|0|0|0|2f67756c7066696c652e6a73|]
+Feb 25 16:40:56 10.71.57.0 u103834837 close "/index.html" bytes read 3821 written 0
+Feb 25 16:40:56 10.71.57.0 u103834837 [10.71.57.0|get|0|3821|0|0|0|2f696e6465782e68746d6c|]
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/package-lock.json" flags READ mode 0666
+Feb 25 16:40:56 10.71.57.0 u103834837 open "/package.json" flags READ mode 0666
+Feb 25 16:40:57 10.71.57.0 u103834837 close "/package.json" bytes read 415 written 0
+Feb 25 16:40:57 10.71.57.0 u103834837 [10.71.57.0|get|1|415|0|0|0|2f7061636b6167652e6a736f6e|]
+Feb 25 16:40:57 10.71.57.0 u103834837 session closed for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:57 10.71.57.0 u103834837 Connection closed by 10.71.57.0 port 42496
+Feb 25 16:40:57 10.71.57.0 u103834837 close "/package-lock.json" bytes read 213038 written 0
+Feb 25 16:40:57 10.71.57.0 u103834837 [10.71.57.0|get|1|213038|0|0|0|2f7061636b6167652d6c6f636b2e6a736f6e|]
+Feb 25 16:40:57 10.71.57.0 u103834837 session closed for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:57 10.71.57.0 u103834837 Connection closed by 10.71.57.0 port 42488
+Feb 25 16:40:57 10.71.57.0 u103834837 sent status No such file
+Feb 25 16:40:57 10.71.57.0 u103834837 Connection from 10.71.57.0 port 45926 on 82.165.88.10 port 22
+Feb 25 16:40:57 10.71.57.0 u103834837 Accepted password for u103834837 from 10.71.57.0 port 45926 ssh2
+Feb 25 16:40:57 10.71.57.0 u103834837 Starting session: subsystem 'sftp' for u103834837 from 10.71.57.0 port 45926 id 0
+Feb 25 16:40:57 10.71.57.0 u103834837 Connection from 10.71.57.0 port 46204 on 82.165.88.10 port 22
+Feb 25 16:40:57 10.71.57.0 u103834837 Accepted password for u103834837 from 10.71.57.0 port 46204 ssh2
+Feb 25 16:40:57 10.71.57.0 u103834837 session opened for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:58 10.71.57.0 u103834837 Starting session: subsystem 'sftp' for u103834837 from 10.71.57.0 port 46204 id 0
+Feb 25 16:40:58 10.71.57.0 u103834837 session opened for local user u103834837 from [10.71.57.0]
+Feb 25 16:40:58 10.71.57.0 u103834837 open "/assets/css/bd-coming-soon.css.map" flags READ mode 0666
+Feb 25 16:40:58 10.71.57.0 u103834837 open "/assets/css/bd-coming-soon.css" flags READ mode 0666
+Feb 25 16:40:58 10.71.57.0 u103834837 close "/assets/css/bd-coming-soon.css.map" bytes read 2682 written 0
+Feb 25 16:40:58 10.71.57.0 u103834837 [10.71.57.0|get|0|2682|0|0|0|2f6173736574732f6373732f62642d636f6d696e672d736f6f6e2e6373732e6d6170|]
+Feb 25 16:40:58 10.71.57.0 u103834837 close "/assets/css/bd-coming-soon.css" bytes read 3347 written 0
+Feb 25 16:40:58 10.71.57.0 u103834837 [10.71.57.0|get|0|3347|0|0|0|2f6173736574732f6373732f62642d636f6d696e672d736f6f6e2e637373|]
+Feb 25 16:40:58 10.71.57.0 u103834837 open "/assets/images/rogue-energy.png" flags READ mode 0666
+Feb 25 16:40:58 10.71.57.0 u103834837 open "/assets/images/nais.png" flags READ mode 0666
+Feb 25 16:40:59 10.71.57.0 u103834837 close "/assets/images/rogue-energy.png" bytes read 57826 written 0
+Feb 25 16:40:59 10.71.57.0 u103834837 [10.71.57.0|get|1|57826|0|0|0|2f6173736574732f696d616765732f726f6775652d656e657267792e706e67|]
+Feb 25 16:40:59 10.71.57.0 u103834837 open "/assets/images/mywebmaker.png" flags READ mode 0666
+Feb 25 16:40:59 10.71.57.0 u103834837 close "/assets/images/mywebmaker.png" bytes read 19301 written 0
+Feb 25 16:40:59 10.71.57.0 u103834837 [10.71.57.0|get|0|19301|0|0|0|2f6173736574732f696d616765732f6d797765626d616b65722e706e67|]
+Feb 25 16:40:59 10.71.57.0 u103834837 close "/assets/images/nais.png" bytes read 55834 written 0
+Feb 25 16:40:59 10.71.57.0 u103834837 [10.71.57.0|get|1|55834|0|0|0|2f6173736574732f696d616765732f6e6169732e706e67|]
+Feb 25 16:40:59 10.71.57.0 u103834837 open "/assets/images/logo32.png" flags READ mode 0666
+Feb 25 16:40:59 10.71.57.0 u103834837 open "/assets/images/logo.png" flags READ mode 0666
+Feb 25 16:40:59 10.71.57.0 u103834837 close "/assets/images/logo32.png" bytes read 1048 written 0
+Feb 25 16:40:59 10.71.57.0 u103834837 [10.71.57.0|get|0|1048|0|0|0|2f6173736574732f696d616765732f6c6f676f33322e706e67|]
+Feb 25 16:41:00 10.71.57.0 u103834837 close "/assets/images/logo.png" bytes read 51397 written 0
+Feb 25 16:41:00 10.71.57.0 u103834837 [10.71.57.0|get|1|51397|0|0|0|2f6173736574732f696d616765732f6c6f676f2e706e67|]
+Feb 25 16:41:00 10.71.57.0 u103834837 open "/assets/images/Fichier_6.png" flags READ mode 0666
+Feb 25 16:41:00 10.71.57.0 u103834837 open "/assets/images/esport-scene.jpg" flags READ mode 0666
+Feb 25 16:41:00 10.71.57.0 u103834837 close "/assets/images/Fichier_6.png" bytes read 55159 written 0
+Feb 25 16:41:00 10.71.57.0 u103834837 [10.71.57.0|get|0|55159|0|0|0|2f6173736574732f696d616765732f466963686965725f362e706e67|]
+Feb 25 16:41:00 10.71.57.0 u103834837 open "/assets/images/ekinsport.png" flags READ mode 0666
+Feb 25 16:41:00 10.71.57.0 u103834837 close "/assets/images/ekinsport.png" bytes read 51727 written 0
+Feb 25 16:41:00 10.71.57.0 u103834837 [10.71.57.0|get|0|51727|0|0|0|2f6173736574732f696d616765732f656b696e73706f72742e706e67|]
+Feb 25 16:41:00 10.71.57.0 u103834837 open "/assets/images/bg.jpg" flags READ mode 0666
+Feb 25 16:41:01 10.71.57.0 u103834837 close "/assets/images/bg.jpg" bytes read 220394 written 0
+Feb 25 16:41:01 10.71.57.0 u103834837 [10.71.57.0|get|1|220394|0|0|0|2f6173736574732f696d616765732f62672e6a7067|]
+Feb 25 16:41:01 10.71.57.0 u103834837 open "/assets/images/cic.png" flags READ mode 0666
+Feb 25 16:41:01 10.71.57.0 u103834837 close "/assets/images/cic.png" bytes read 3078 written 0
+Feb 25 16:41:01 10.71.57.0 u103834837 [10.71.57.0|get|0|3078|0|0|0|2f6173736574732f696d616765732f6369632e706e67|]
+Feb 25 16:41:02 10.71.57.0 u103834837 close "/assets/images/esport-scene.jpg" bytes read 1563135 written 0
+Feb 25 16:41:02 10.71.57.0 u103834837 [10.71.57.0|get|2|1563135|0|0|0|2f6173736574732f696d616765732f6573706f72742d7363656e652e6a7067|]
+Feb 25 16:41:02 10.71.57.0 u103834837 open "/logs/sftp.log" flags READ mode 0666
